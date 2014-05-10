@@ -1,4 +1,4 @@
-activerecord-samples
+Примеры использования ActiveRecord в Rails
 ====================
 
-Samples for Ruby ActiveRecord
+Примеры для поста в блоге, демонстрирующие возможности взаимодействия с базами данных в Rails.
